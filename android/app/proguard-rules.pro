@@ -1,0 +1,4 @@
+-keep class com.alaa.gurp.SecurityUtils { *; }
+-keep class io.flutter.** { *; }
+-keepattributes *Annotation*
+-dontwarn **
